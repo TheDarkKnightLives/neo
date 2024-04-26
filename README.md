@@ -25,9 +25,9 @@ The Vulnerability Scanner is a tool designed to scan websites for common securit
    ```
 
 ## Usage
-1. Run the script `test_vulnerabilities.py`:
+1. Run the script `scanner.py`:
    ```bash
-   python test_vulnerabilities.py
+   python scanner.py
    ```
 2. Enter the domain name (e.g., example.com) when prompted.
 3. The script will scan the specified domain for XSS, CSRF, and SQL injection vulnerabilities and display the results.
